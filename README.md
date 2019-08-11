@@ -1,7 +1,7 @@
 [![PyPI version](https://badge.fury.io/py/joke-for-the-day.svg)](https://badge.fury.io/py/joke-for-the-day)
 
 
-# Joke of the Day
+# Joke for the Day
 
 Gives a joke for personal amusement.
 
