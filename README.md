@@ -8,7 +8,7 @@ Gives a joke for personal amusement.
 ## Installation
 Requires Python3
 ```
-pip3 install joke-of-the-day
+pip3 install joke-for-the-day
 ```
 
 ## Usage
