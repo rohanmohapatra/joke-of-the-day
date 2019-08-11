@@ -1,1 +1,0 @@
-name = "joke-of-the-day"
