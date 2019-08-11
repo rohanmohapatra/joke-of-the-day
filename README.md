@@ -2,6 +2,12 @@
 
 Gives a joke for personal amusement.
 
+## Installation
+Requires Python3
+```
+pip3 install joke-of-the-day
+```
+
 ## Usage
 
 ```sh
