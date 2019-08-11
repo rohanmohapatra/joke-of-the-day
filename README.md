@@ -14,7 +14,7 @@ pip3 install joke-for-the-day
 ## Usage
 
 ```sh
-joke-for-the-day
+joke-of-the-day
 ```
 
 ## License
